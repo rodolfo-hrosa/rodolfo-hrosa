@@ -2,8 +2,8 @@
 
 <div>
   
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=rodolfo-hrosa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-hrosa&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="125em" src="https://github-readme-stats.vercel.app/api?username=rodolfo-hrosa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-hrosa&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -28,4 +28,4 @@
    </div>
     
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rodolfo-hrosa/rodolfo-hrosa/blob/output/github-contribution-grid-snake.svg)
